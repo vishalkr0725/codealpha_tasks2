@@ -2,6 +2,14 @@
 
 Commons is a full-stack social media platform built using HTML, CSS, JavaScript, Node.js, Express.js, and PostgreSQL/Supabase.
 
+## Live Demo
+
+[Live Demo](YOUR_VERCEL_URL)
+
+## Live Repository
+
+[GitHub Repository](https://github.com/vishalkr0725/commons-)
+
 ## Features
 
 - User profiles
