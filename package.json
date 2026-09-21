@@ -1,0 +1,18 @@
+{
+  "name": "social-media-platform",
+  "version": "1.0.0",
+  "description": "A mini social media platform built with HTML, CSS, JavaScript, Express.js, and PostgreSQL",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "build": "echo \"No build step needed — static frontend served by Express\""
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@supabase/supabase-js": "^2.45.4",
+    "dotenv": "^16.3.1",
+    "cors": "^2.8.5"
+  }
+}
